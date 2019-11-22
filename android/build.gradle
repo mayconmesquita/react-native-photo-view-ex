@@ -57,6 +57,7 @@ repositories {
 
 dependencies {
     implementation('com.facebook.react:react-native:+')
+    implementation "androidx.core:core:1.1.0"
     implementation 'me.relex:photodraweeview:2.0.0'
 }
 
