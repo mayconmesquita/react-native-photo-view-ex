@@ -56,7 +56,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly 'com.facebook.react:react-native:+'
+    implementation('com.facebook.react:react-native:+')
     implementation 'me.relex:photodraweeview:2.0.0'
 }
 
