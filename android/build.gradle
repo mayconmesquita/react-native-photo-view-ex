@@ -58,7 +58,7 @@ repositories {
 dependencies {
     implementation('com.facebook.react:react-native:+')
     implementation "androidx.core:core:1.1.0"
-    implementation 'me.relex:photodraweeview:2.0.0'
+    implementation 'me.relex:photodraweeview:2.1.0'
 }
 
 task customClean(type: Delete) {
